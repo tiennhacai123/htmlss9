@@ -1,0 +1,45 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+.content1{
+    position: absolute;
+    color: white;
+    background-color: red;
+    border-radius: 10%;
+    width: 120px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    top: 50px;
+    left: 50px;
+    font-size: 15px;
+}
+.img{
+    margin: 30px;
+}
+.icon1{
+    position: absolute;
+    font-size: 40px;
+    top: 80px;
+    left: 480px;
+}
+.icon2{
+    position: absolute;
+    font-size: 40px;
+    top: 150px;
+    left: 480px;
+}
+.icon3{
+    position: absolute;
+    font-size: 40px;
+    top: 220px;
+    left: 480px;
+}
+.content2{
+    position: absolute;
+    color: lightsalmon;
+    top: 350px;
+    left: 40px;
+}

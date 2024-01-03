@@ -1,0 +1,22 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.transform {
+    background-color: lightgray;
+    width: 500px;
+    height: 300px;
+    position: relative;
+    box-sizing: border-box;
+}
+.transform:hover{
+    background-color:blue;
+}
+.content {
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    top: 25px;
+    left: 80px;
+}
